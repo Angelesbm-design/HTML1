@@ -1,0 +1,82 @@
+[
+  {
+    "prueba": "Grid movil: 1 columnas (esperadas 1)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin desplazamiento horizontal en movil (390px)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin errores JavaScript en movil",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Grid tableta: 2 columnas (esperadas 2)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin desplazamiento horizontal en tableta (820px)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin errores JavaScript en tableta",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Grid escritorio: 3 columnas (esperadas 3)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin desplazamiento horizontal en escritorio (1366px)",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Sin errores JavaScript en escritorio",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Buscador: 1 coincidencia para reciclaje",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Buscador restaura las 6 tarjetas",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Enlace de detalle de agua definido correctamente",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Formulario muestra confirmación de simulación",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Formulario aclara que no hay envío de datos",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Primer enlace de teclado salta al contenido",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Enlace de salto tiene foco visual",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Página de detalle renderiza agua según parámetro URL",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Detalle muestra 3 pasos de orientación",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Ruta inválida muestra mensaje claro",
+    "resultado": "CORRECTO"
+  },
+  {
+    "prueba": "Modo oscuro aplicado según preferencia del sistema",
+    "resultado": "CORRECTO"
+  }
+]

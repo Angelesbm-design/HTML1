@@ -1,0 +1,21 @@
+PRUEBAS DE NAVEGADOR (CHROMIUM, contenido local incrustado solo en QA)
+CORRECTO: Grid movil: 1 columnas (esperadas 1)
+CORRECTO: Sin desplazamiento horizontal en movil (390px)
+CORRECTO: Sin errores JavaScript en movil
+CORRECTO: Grid tableta: 2 columnas (esperadas 2)
+CORRECTO: Sin desplazamiento horizontal en tableta (820px)
+CORRECTO: Sin errores JavaScript en tableta
+CORRECTO: Grid escritorio: 3 columnas (esperadas 3)
+CORRECTO: Sin desplazamiento horizontal en escritorio (1366px)
+CORRECTO: Sin errores JavaScript en escritorio
+CORRECTO: Buscador: 1 coincidencia para reciclaje
+CORRECTO: Buscador restaura las 6 tarjetas
+CORRECTO: Enlace de detalle de agua definido correctamente
+CORRECTO: Formulario muestra confirmación de simulación
+CORRECTO: Formulario aclara que no hay envío de datos
+CORRECTO: Primer enlace de teclado salta al contenido
+CORRECTO: Enlace de salto tiene foco visual
+CORRECTO: Página de detalle renderiza agua según parámetro URL
+CORRECTO: Detalle muestra 3 pasos de orientación
+CORRECTO: Ruta inválida muestra mensaje claro
+CORRECTO: Modo oscuro aplicado según preferencia del sistema
