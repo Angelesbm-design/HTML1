@@ -81,7 +81,7 @@ function configurarPaginaDetalle() {
   document.getElementById("detalle-descripcion").textContent = servicio.descripcion;
   document.getElementById("detalle-nota").textContent = servicio.nota;
   const imagen = document.getElementById("detalle-imagen");
-  imagen.src = `assets/img/${servicio.imagen}`;
+  imagen.src = `${servicio.imagen}`;
   imagen.alt = servicio.alt;
   agregarElementosLista(document.getElementById("detalle-requisitos"), servicio.requisitos);
   agregarElementosLista(document.getElementById("detalle-pasos"), servicio.pasos);
